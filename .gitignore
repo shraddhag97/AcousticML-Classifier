@@ -1,0 +1,5 @@
+acousticml-env/
+__pycache__/
+*.pyc
+samples/
+outputs/
